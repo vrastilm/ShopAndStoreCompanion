@@ -1,0 +1,19 @@
+CACHE MANIFEST
+
+# Version 0.0.1
+
+NETWORK: *
+
+CACHE:
+index.html
+anifest.webmanifest
+ffline-worker.js
+rc.19864527.js
+obotoLight.f5f866fd.ttf
+pple-touch-icon.eed28663.png
+avicon-16x16.ec8e0dab.png
+avicon-32x32.02526716.png
+stile-150x150.788703c1.png
+afari-pinned-tab.302050d3.svg
+
+FALLBACK:

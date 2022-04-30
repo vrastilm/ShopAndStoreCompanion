@@ -1,0 +1,1827 @@
+[
+  {
+    "kod": "E 100",
+    "nazev": "Kurkumin Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 101",
+    "nazev": "Riboflavin (vitamin B2) Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 102",
+    "nazev": "Tartrazin Barvivo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 104",
+    "nazev": "Chinolinová žluť Barvivo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 110",
+    "nazev": "Žluť SY Barvivo",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 120",
+    "nazev": "Košenila, kyselina karmínová, karmíny Barvivo",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 122",
+    "nazev": "Azorubin Barvivo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 123",
+    "nazev": "Amarant Barvivo",
+    "skodlivost": 6
+  },
+  {
+    "kod": "E 124",
+    "nazev": "Ponceau 4R Barvivo",
+    "skodlivost": 6
+  },
+  {
+    "kod": "E 127",
+    "nazev": "Erythrosin Barvivo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 128",
+    "nazev": "Červeň 2G Barvivo",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 129",
+    "nazev": "Červeň Allura AC Barvivo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 131",
+    "nazev": "Patentní modř V Barvivo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 132",
+    "nazev": "Indigotin Barvivo",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 133",
+    "nazev": "Brilantní modř FCF Barvivo",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 140",
+    "nazev": "Chlorofyly a chlorofyliny Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 141",
+    "nazev": "Mědnaté komplexy chlorofylů a chlorofylinů Barvivo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 142",
+    "nazev": "Zeleň S Barvivo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 150a",
+    "nazev": "Karamel Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 150b",
+    "nazev": "Kaustický sulfitový karamel Barvivo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 150c",
+    "nazev": "Amoniakový karamel Barvivo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 150d",
+    "nazev": "Amoniak - sulfitový karamel Barvivo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 151",
+    "nazev": "Čerň BN Barvivo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 153",
+    "nazev": "Medicinální uhlí, Uhlík z rostlinné suroviny Barvivo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 154",
+    "nazev": "Hněď FK Barvivo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 155",
+    "nazev": "Hněď HT Barvivo",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 160a",
+    "nazev": "Karoteny Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 160b",
+    "nazev": "Annato, Bixin, Norbixin Barvivo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 160c",
+    "nazev": "Paprikový extrakt, kapsanthin, kapsorubin Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 160d",
+    "nazev": "Lykopen Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 160e",
+    "nazev": "Beta-apo-8´-karotenal Barvivo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 160f",
+    "nazev": "Ethylester kyseliny beta-apo-8´- karotenové Barvivo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 161a",
+    "nazev": "Flavoxantin Barvivo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 161b",
+    "nazev": "Lutein Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 161c",
+    "nazev": "Kryptoxantin Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 161d",
+    "nazev": "Rubixantin Barvivo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 161e",
+    "nazev": "Violoxantin Barvivo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 161f",
+    "nazev": "Rhodoxantin Barvivo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 161g",
+    "nazev": "Kanthaxanthin Barvivo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 162",
+    "nazev": "Betalainová červeň, Betanin Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 163",
+    "nazev": "Anthokyany Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 164",
+    "nazev": "Šafrán, Šafránová žluť Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 166",
+    "nazev": "Santalové dřevo Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 170",
+    "nazev": "Uhličitan vápenatý Stabilizátor, Protispékavá látka, Barvivo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 171",
+    "nazev": "Oxid titaničitý, Titanová běloba Barvivo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 172",
+    "nazev": "Oxidy a hydroxidy železa Barvivo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 173",
+    "nazev": "Hliník Barvivo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 174",
+    "nazev": "Stříbro Barvivo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 175",
+    "nazev": "Zlato Barvivo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 180",
+    "nazev": "Litholrubin BK Barvivo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 182",
+    "nazev": "Orchil Barvivo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 200",
+    "nazev": "Kyselina sorbová Konzervant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 201",
+    "nazev": "Sorban sodný Konyervant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 202",
+    "nazev": "Sorbát draselný Konzervant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 203",
+    "nazev": "Sorbát vápenatý Konzervant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 209",
+    "nazev": "Heptylparaben Konyervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 210",
+    "nazev": "Kyselina benzoová Konzervant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 211",
+    "nazev": "Benzoát sodný Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 212",
+    "nazev": "Benzoát draselný Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 213",
+    "nazev": "Benzoát vápenatý Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 214",
+    "nazev": "Ethylparahydroxybenzoát Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 215",
+    "nazev": "Ethylparahydroxybenzoát sodná sůl Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 216",
+    "nazev": "Propylparahydroxybenzoát Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 217",
+    "nazev": "Propylparahydroxybenzoát sodná sůl Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 218",
+    "nazev": "Methylparahydroxybenzoát Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 219",
+    "nazev": "Methylparahydroxybenzoát sodná sůl Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 220",
+    "nazev": "Oxid siřičitý Konzervant, Antioxidant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 221",
+    "nazev": "Siřičitan sodný Konzervant, Antioxidant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 222",
+    "nazev": "Hydrogensiřičitan sodný Konzervant, Antioxidant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 223",
+    "nazev": "Disiřičitan disodný Konzervant, Antioxidant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 224",
+    "nazev": "Disiřičitan didraselný Konzervant, Antioxidant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 225",
+    "nazev": "Siřičitan draselný Konyervant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 226",
+    "nazev": "Siřičitan vápenatý Konzervant, Antioxidant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 227",
+    "nazev": "Hydrogensiřičitan vápenatý Konzervant, Antioxidant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 228",
+    "nazev": "Hydrogensiřičitan draselný Konzervant, Antioxidant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 230",
+    "nazev": "Bifenyl Konzervant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 231",
+    "nazev": "Orthofenylfenol Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 232",
+    "nazev": "Orthofenylfenolát sodný Konzervant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 234",
+    "nazev": "Nisin Konzervant",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 235",
+    "nazev": "Natamycin Konzervant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 236",
+    "nazev": "Kyselina mravenčí Konyervant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 239",
+    "nazev": "Hexamethylentetramin Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 240",
+    "nazev": "Formaldehyd Konzervant, Deyinfekce",
+    "skodlivost": 6
+  },
+  {
+    "kod": "E 242",
+    "nazev": "Dimethyldikarbonát Konzervant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 249",
+    "nazev": "Dusitan draselný Stabilizátor, Konzervant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 250",
+    "nazev": "Dusitan sodný Stabilizátor, Konzervant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 251",
+    "nazev": "Dusičnan sodný Stabilizátor, Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 252",
+    "nazev": "Dusičnan draselný Stabilizátor, Konzervant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 260",
+    "nazev": "Kyselina octová Regulátor kyselosti, Konzervant",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 261",
+    "nazev": "Octan draselný Regulátor kyselosti, Konzervant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 262",
+    "nazev": "Octany sodné Regulátor kyselosti, Konzervant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 263",
+    "nazev": "Octan vápenatý Stabilizátor, Regulátor kyselosti,Konzervant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 265",
+    "nazev": "Kyselina octová bezvodá Konzervant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 270",
+    "nazev": "Kyselina mléčná Regulátor kyselosti",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 280",
+    "nazev": "Kyselina propionová Konzervant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 281",
+    "nazev": "Propionát sodný, Propionan sodný Konzervant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 282",
+    "nazev": "Propionát vápenatý Konzervant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 283",
+    "nazev": "Propionát draselný Konzervant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 284",
+    "nazev": "Kyselina boritá Konzervant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 285",
+    "nazev": "Tetraboritan sodný, Borax Konzervant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 290",
+    "nazev": "Oxid uhličitý Balící plyn, Propelant",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 296",
+    "nazev": "Kyselina jablečná Ochucující látka, Regulátor kyselosti",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 297",
+    "nazev": "Kyselina fumarová Ochucující látka, Regulátor kyselosti, Antioxidant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 300",
+    "nazev": "Kyselina askorbová (kyselina L-askorbová) Antioxidant",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 301",
+    "nazev": "Askorbát sodný Antioxidant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 302",
+    "nazev": "Askorbát vápenatý Antioxidant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 304",
+    "nazev": "Estery mastných kyselin s kyselinou askorbovou Antioxidant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 306",
+    "nazev": "Extrakt s obsahem tokoferolů Antioxidant",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 307",
+    "nazev": "Alfa-tokoferol Antioxidant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 308",
+    "nazev": "Gamma-tokoferol Antioxidant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 309",
+    "nazev": "Delta-tokoferol Antioxidant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 310",
+    "nazev": "Propylgallát Konzervant, Antioxidant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 311",
+    "nazev": "Oktylgallát Antioxidant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 312",
+    "nazev": "Dodecylgallát Antioxidant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 314",
+    "nazev": "Guaiac Gum Antioxidant",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 315",
+    "nazev": "Kyselina erythorbová Antioxidant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 316",
+    "nazev": "Erythorban sodný Antioxidant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 319",
+    "nazev": "Terciální butylhydrochinon (TBHQ) Antioxidant",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 320",
+    "nazev": "Butylhydroxyanisol (BHA) Antioxidant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 321",
+    "nazev": "Butylhydroxytoluen (BHT) Antioxidant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 322",
+    "nazev": "Lecitin Emulgátor, Antioxidant",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 323",
+    "nazev": "Anoxomer Antioxidant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 324",
+    "nazev": "Ethoxyquin Antioxidant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 325",
+    "nazev": "Mléčnan sodný Zvlhčující látka, Plnidlo, Antioxidant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 326",
+    "nazev": "Mléčnan draselný Regulátor kyselosti, Antioxidant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 327",
+    "nazev": "Mléčnan vápenatý Regulátor kyselosti, Látka zlepšující mouku",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 330",
+    "nazev": "Kyselina citrónová Sekvestrant, Regulátor kyselosti, Antioxidant",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 331",
+    "nazev": "Citráty sodné Stabilizátor, Sekvestrant, Regulátor kyselosti, Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 332",
+    "nazev": "Citráty draselné Stabilizátor, Sekvestrant, Regulátor kyselosti",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 333",
+    "nazev": "Citráty vápenaté Regulátor kyselosti, Plnidlo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 334",
+    "nazev": "Kyselina vinná Sekvestrant, Regulátor kyselosti, Antioxidant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 335",
+    "nazev": "Vinany sodné Stabilizátor, Sekvestrant, Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 336",
+    "nazev": "Vinan draselný Stabilizátor, Sekvestrant, Regulátor kyselosti",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 337",
+    "nazev": "Vinan sodno-draselný Stabilizátor, Sekvestrant, Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 338",
+    "nazev": "Kyselina fosforečná Regulátor kyselosti, Antioxidant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 339",
+    "nazev": "Fosforečnany sodné Tavící sůl, Stabilizátor, Sekvestrant, Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 340",
+    "nazev": "Fosforečnany draselné Stabilizátor, Zvlhčující látka, Sekvestrant, Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 340(i)",
+    "nazev": "Dihydrogenfosforečnan draselný Stabilizátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 340(ii)",
+    "nazev": "Monohydrogenfosforečnan draselný\tStabilizátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 340(iii)",
+    "nazev": "Fosforečnan draselný Stabilizátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 341",
+    "nazev": "Fosforečnany vápenaté Zahušťovadlo, Regulátor kyselosti, Protispékavá látka, Plnidlo, Látka zlepšující mouku",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 342",
+    "nazev": "Fosforečnany amonné Kypřící látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 343",
+    "nazev": "Fosforečnany hořečnaté Regulátor kyselosti, Protispékavá látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 350",
+    "nazev": "Jablečnany sodné Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 351",
+    "nazev": "Jablečnany draselné Regulátor kyselosti",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 352",
+    "nazev": "Jablečnany vápenaté Regulátor kyselosti",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 353",
+    "nazev": "Kyselina metavinná Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 354",
+    "nazev": "Vinan vápenatý Regulátor kyselosti",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 355",
+    "nazev": "Kyselina adipová Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 356",
+    "nazev": "Adipát sodný Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 357",
+    "nazev": "Adipát draselný Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 363",
+    "nazev": "Kyselina jantarová Regulátor kyselosti",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 380",
+    "nazev": "Citrát amonný Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 381",
+    "nazev": "Citronan železitoamonný Protispékavá látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 383",
+    "nazev": "Glycerofosforečnan vápenatý Stabilizátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 384",
+    "nazev": "Citronan isopropylnatý Antioxidant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 385",
+    "nazev": "Ethylendiamintetraacetát vápenatodisodný Sekvestrant, Konzervant, Antioxidant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 386",
+    "nazev": "Ethylendiamintetraacetát disodný Sekvestrant",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 387",
+    "nazev": "Oxystearin Sekvestrant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 388",
+    "nazev": "Kyselina thiodipropionová Sekvestrant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 389",
+    "nazev": "Dilauryl thiodipropionát Antioxidant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 400",
+    "nazev": "Kyselina alginová Stabilizátor, Zahušťovadlo, Emulgátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 401",
+    "nazev": "Alginát sodný Stabilizátor, Želírující látka, Zahušťovadlo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 402",
+    "nazev": "Alginát draselný Stabilizátor, Želírující látka, Zahušťovadlo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 403",
+    "nazev": "Alginát amonný Stabilizátor, Želírující látka, Zahušťovadlo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 404",
+    "nazev": "Alginát vápenatý Želírující látka, Stabilizátor, Zahušťovadlo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 405",
+    "nazev": "Propan-1,2-diolalginát Stabilizátor, Zahušťovadlo, Emulgátor",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 406",
+    "nazev": "Agar Želírující látka, Zahušťovadlo, Emulgátor, Stabilizátor",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 407",
+    "nazev": "Karagenan Želírující látka, Zahušťovadlo, Emulgátor, Stabilizátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 407a",
+    "nazev": "Guma Euchema Zahušťovadlo, Emulgátor, Želírující látka, Stabilizátor",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 409",
+    "nazev": "Arabinnogalaktan Stabilizátor",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 410",
+    "nazev": "Karubin Stabilizátor, Zahušťovadlo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 412",
+    "nazev": "Guma guar Stabilizátor, Zahušťovadlo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 413",
+    "nazev": "Tragant Zahušťovadlo, Emulgátor, Stabilizátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 414",
+    "nazev": "Arabská guma Stabilizátor, Zahušťovadlo, Emulgátor, Zvlhčující látka",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 415",
+    "nazev": "Xanthan Stabilizátor, Zahušťovadlo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 416",
+    "nazev": "Guma karaya Stabilizátor, Zahušťovadlo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 417",
+    "nazev": "Guma tara Stabilizátor, Zahušťovadlo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 418 Guma gellan Stabilizátor, Želírující látka, Zahušťovadlo",
+    "nazev": 0,
+    "skodlivost": ""
+  },
+  {
+    "kod": "E 419",
+    "nazev": "Guma ghatti Stabilizátor",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 420",
+    "nazev": "Sorbitol Zvlhčující látka, Zahušťovadlo, Sekvestrant, Náhradní sladidlo, Emulgátor",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 421",
+    "nazev": "Mannitol Stabilizátor, Náhradní sladidlo, Plnidlo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 422",
+    "nazev": "Glycerol Zahušťovadlo, Náhradní sladidlo, Zvlhčující látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 425",
+    "nazev": "Konjaková guma a glukomannan Nosič a rozpouštědlo, Zahušťovadlo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 430",
+    "nazev": "Polyoxyethylen stearát Stabilizátor",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 431",
+    "nazev": "Polyoxyethylen monostearát Odpěňovač",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 432",
+    "nazev": "Polyoxyethylensorbitanmonolaurát Stabilizátor, Emulgátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 433",
+    "nazev": "Polyoxyethylensorbitanmonooleát Stabilizátor, Emulgátor",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 434",
+    "nazev": "PolyoxyethylensorbitanmonopalmitáStabilizátor, Emulgátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 435",
+    "nazev": "PolyoxyethylensorbitanmonostearátStabilizátor, Emulgátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 436",
+    "nazev": "Polyoxyethylensorbitantristearát Stabilizátor, Emulgátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 440",
+    "nazev": "Pektiny Stabilizátor, Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 440(i)",
+    "nazev": "Pektin Želírující látka",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 440(ii)",
+    "nazev": "Amidovaný pektin Želírující látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 442",
+    "nazev": "Fosfatidy amonné, Amonné soli fosfatidových kyselin Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 443",
+    "nazev": "Bromovaný rostlinný olej\tEmulgátor",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 444",
+    "nazev": "Acetát-isobutyrát sacharosy Stabilizátor, Emulgátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 445",
+    "nazev": "Glycerylester borovicové pryskyřice Stabilizátor, Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 446",
+    "nazev": "Sukcistearin Nosič, Rozpouštědlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 450",
+    "nazev": "Difosforečnany Stabilizátor, Kypřící látka, Tavící sůl, Sekvestrant, Regulátor kyselosti, Emulgátor",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 451",
+    "nazev": "Trifosforečnany Stabilizátor, Sekvestrant, Regulátor kyselosti",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 452",
+    "nazev": "Polyfosforečnany Stabilizátor, Kypřící látka, Sekvestrant, Regulátor kyselosti, Emulgátor",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 459",
+    "nazev": "Beta-cyklodextrin Nosič a rozpouštědlo, Stabilizátor",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 460",
+    "nazev": "Celulosa Nosič, Zahušťovadlo, Protispékavá látka, Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 461",
+    "nazev": "Methylcelulosa Stabilizátor, Zahušťovadlo, Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 462",
+    "nazev": "Ethylcelulóza Plnidlo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 463",
+    "nazev": "Hydroxypropylcelulosa Stabilizátor, Zahušťovadlo, Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 464",
+    "nazev": "Hydroxypropylmethylcelulosa Stabilizátor, Zahušťovadlo, Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 465",
+    "nazev": "Ethylmethylcelulosa Stabilizátor, Zahušťovadlo, Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 466",
+    "nazev": "Karboxymethylcelulosa Zahušťovadlo, Stabilizátor, Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 467",
+    "nazev": "Ethylhydroxyethylcelulóza Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 468",
+    "nazev": "Zesíťovaná sodná sůl karboxymethylcelulosy Zahušťovadlo, Emulgátor, Stabilizátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 469",
+    "nazev": "Enzymově hydrolyzovaná karboxymethylcelulosa Zahušťovadlo, Emulgátor, Stabilizátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 470a",
+    "nazev": "Sodné, draselné a vápenaté soli mastných kyselin Protispékavá látka, Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 470b",
+    "nazev": "Hořečnaté soli mastných kyselin Protispékavá látka, Emulgátor E 471 Mono a diglyceridy mastných kyselin Stabilizátor, Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 471",
+    "nazev": "Mono a diglyceridy mastných kyselin Stabilizátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 472",
+    "nazev": "Estery mono a dyglyceridů mastných kyselin s kyselinou octovou, mléčnou, citrónovou, vinnou a acetyl Stabilizátor, Emulgátor, 1",
+    "skodlivost": ""
+  },
+  {
+    "kod": "E 473",
+    "nazev": "Cukroestery Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 474",
+    "nazev": "Cukroglyceridy Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 475",
+    "nazev": "Estery polyglycerolu s mastnými kyselinami Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 476",
+    "nazev": "Polyglycerolpolyricinoleát Emulgátor",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 477",
+    "nazev": "Estery propan-1,2-diolu s mastnými kyselinami Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 478",
+    "nazev": "Laktylované estery glycerolu a propandiolu Zvlhčující látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 479b",
+    "nazev": "Oxidovaný sojový olej a jeho produkty Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 480",
+    "nazev": "Dioktylsulfosukcinát sodný Emulgátor",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 481",
+    "nazev": "Stearoyllaktylát sodný Stabilizátor, Emulgátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 482",
+    "nazev": "Stearoyllaktylát vápenatý Stabilizátor, Emulgátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 483",
+    "nazev": "Stearyltartrát Emulgátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 484",
+    "nazev": "Stearylcitrát Antioxidant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 487",
+    "nazev": "Laurylsulfát sodný Zvlhčující látka",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 488",
+    "nazev": "Etoxylované mono a di glyceridy Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 491",
+    "nazev": "Monostearát sorbitolu, Sorbitanmonostearát Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 492",
+    "nazev": "Tristearát sorbitolu, Sorbitantristearát Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 493",
+    "nazev": "Monolaurát sorbitolu, Sorbitanmonolaurát Emulgátor, Stabilizátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 494",
+    "nazev": "Monooleát sorbitolu, Sorbitanmonooleát Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 495",
+    "nazev": "Monopalmitát sorbitolu, Sorbitanmonopalmitát Emulgátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 500",
+    "nazev": "Uhličitany sodné Sekvestrant, Zahušťovadlo, Regulátor kyselosti, Protispékavá látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 500(i)",
+    "nazev": "Uhličitan sodný Sekvestrant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 500(ii)",
+    "nazev": "Hydrogenuhličitan sodný Regulátor kyselosti",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 500(iii)",
+    "nazev": "Sekvikarbonát sodný Regulátor kyselosti",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 501",
+    "nazev": "Uhličitany draselné Kypřící látka, Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 503",
+    "nazev": "Uhličitany amonné Kypřící látka, Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 504",
+    "nazev": "Uhličitany hořečnaté Stabilizátor, Regulátor kyselosti, Protispékavá látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 507",
+    "nazev": "Kyselina chlorovodíková Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 508",
+    "nazev": "Chlorid draselný Ochucující látka, Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 509",
+    "nazev": "Chlorid vápenatý Regulátor kyselosti, Nosič, Zpevňující látka, Protispékavá látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 510",
+    "nazev": "Chlorid amonný Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 511",
+    "nazev": "Chlorid hořečnatý Zpevňující látka, Ochucující látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 512",
+    "nazev": "Chlorid cínatý Antioxidant",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 513",
+    "nazev": "Kyselina sírová Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 514",
+    "nazev": "Síran sodný Regulátor kyselosti",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 515",
+    "nazev": "Síran draselný Regulátor kyselosti",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 516",
+    "nazev": "Síran vápenatý Sekvestrant, Plnidlo, Zpevňující látka, Látka zlepšující mouku",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 517",
+    "nazev": "Síran amonný Látka zlepšující mouku",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 518",
+    "nazev": "Síran hořečnatý Plnidlo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 520",
+    "nazev": "Síran hlinitý Regulátor pH, Sekvestrant, Zpevňující látka",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 521",
+    "nazev": "Síran sodno-hlinitý Regulátor pH, Zpevňující látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 522",
+    "nazev": "Síran draselno-hlinitý Zpevňující látka, Regulátor pH",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 523",
+    "nazev": "Síran amonno-hlinitý Zpevňující látka, Kypřící látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 524",
+    "nazev": "Hydroxid sodný Regulátor kyselosti",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 525",
+    "nazev": "Hydroxid draselný Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 526",
+    "nazev": "Hydroxid vápenatý Regulátor kyselosti, Zpevňující látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 527",
+    "nazev": "Hydroxid amonný Regulátor kyselosti",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 528",
+    "nazev": "Hydroxid hořečnatý Stabilizátor, Regulátor kyselosti",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 529",
+    "nazev": "Oxid vápenatý Zpevňující látka, Regulátor kyselosti, Protispékavá látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 530",
+    "nazev": "Oxid hořečnatý Protispékavá látka, Regulátor kyselosti",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 535",
+    "nazev": "Ferrokyanid sodný, Hexakyanoželeznatan sodný Protispékavá látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 536",
+    "nazev": "Ferrokyanid draselný, Hexakyanoželeznatan draselný Protispékavá látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 538",
+    "nazev": "Ferrokyanid vápenatý, Hexakyanoželeznatan vápenatý Protispékavá látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 539",
+    "nazev": "Thiosíran sodný Stabilizátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 541",
+    "nazev": "Fosforečnan sodno-hlinitý Regulátor kyselosti, Emulgátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 551",
+    "nazev": "Oxid křemičitý Protispékavá látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 552",
+    "nazev": "Křemičitan vápenatý Protispékavá látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 553a",
+    "nazev": "Křemičitany hořečnaté Protispékavá látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 553b",
+    "nazev": "Talek Protispékavá látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 554",
+    "nazev": "Křemičitan sodno-hlinitý Protispékavá látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 555",
+    "nazev": "Křemičitan draselno-hlinitý Protispékavá látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 556",
+    "nazev": "Křemičitan vápenato-hlinitý Protispékavá látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 558",
+    "nazev": "Bentonit Protispékavá látka, Nosič",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 559",
+    "nazev": "Kaolin Protispékavá látka, Nosič",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 570",
+    "nazev": "Mastné kyseliny Odpěňovač, Leštící látka, Zvlhčující látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 572",
+    "nazev": "Stearan hořečnatý Stabilizátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 574",
+    "nazev": "Kyselina glukonová Kypřící látka, Regulátor kyselosti, Antioxidant",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 575",
+    "nazev": "Glukono-delta-lakton Kypřící látka, Regulátor kyselosti",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 576",
+    "nazev": "Glukonát sodný Sekvestrant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 577",
+    "nazev": "Glukonát draselný Sekvestrant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 578",
+    "nazev": "Glukonát vápenatý Zpevňující látka, Sekvestrant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 579",
+    "nazev": "Glukonát železnatý Stabilizátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 585",
+    "nazev": "Mléčnan železnatý Stabilizátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 620",
+    "nazev": "Kyselina glutamová Látka zvýrazňující chuť a vůni",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 621",
+    "nazev": "Glutamát sodný (glutaman sodný) Látka zvýrazňující chuť a vůni",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 622",
+    "nazev": "Glutamát draselný (glutaman draselný) Látka zvýrazňující chuť a vůni",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 623",
+    "nazev": "Glutamát vápenatý (glutaman vápenatý) Látka zvýrazňující chuť a vůni",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 624",
+    "nazev": "Glutamát amonný (glutaman amonný) Látka zvýrazňující chuť a vůni",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 625",
+    "nazev": "Glutamát hořečnatý (glutaman hořečnatý) Látka zvýrazňující chuť a vůni",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 626",
+    "nazev": "Kyselina guanylová Látka zvýrazňující chuť a vůni",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 627",
+    "nazev": "Guanylát sodný Látka zvýrazňující chuť a vůni",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 628",
+    "nazev": "Guanylát vápenatý Látka zvýrazňující chuť a vůni",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 630",
+    "nazev": "Kyselina inosinová Látka zvýrazňující chuť a vůni",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 631",
+    "nazev": "Inosinát sodný Látka zvýrazňující chuť a vůni",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 632",
+    "nazev": "Inosinát draselný Látka zvýrazňující chuť a vůni",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 633",
+    "nazev": "Inosinát vápenatý Látka zvýrazňující chuť a vůni",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 634",
+    "nazev": "Vápenaté ribonukleotidy, Ribonukleotidy, vápenaté soli Látka zvýrazňující chuť a vůni",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 635",
+    "nazev": "Disodné ribonukleotidy, Ribonukleotidy, sodné soli Látka zvýrazňující chuť a vůni",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 640",
+    "nazev": "Glycin a jodná sůl Látka zvýrazňující chuť a vůni",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 650",
+    "nazev": "Octan zinečnatý Látka zvýrazňující chuť a vůni",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 900",
+    "nazev": "Dimethylpolysiloxan Protispékavá látka, Odpěňovač",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 901",
+    "nazev": "Včelí vosk Leštící látka",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 902",
+    "nazev": "Vosk candelilla Leštící látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 903",
+    "nazev": "Karnaubský vosk Leštící látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 904",
+    "nazev": "Šelak Leštící látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 905",
+    "nazev": "Mikrokrystalický vosk Leštící látka",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 908",
+    "nazev": "Vosk z rýžových otrub Nosič, Rozpouštědlo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 912",
+    "nazev": "Estery montanových kyselin Leštící látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 914",
+    "nazev": "Oxidovaný polyethylenový vosk Leštící látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 920",
+    "nazev": "L - cystein, jeho hydrochlorid a sodná a draselná sůl Emulgátory",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 921",
+    "nazev": "L - cystein Látka zlepšující mouku",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 927b",
+    "nazev": "Močovina Ochucující látka",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 938",
+    "nazev": "Argon Propelant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 939",
+    "nazev": "Helium Propelant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 941",
+    "nazev": "Dusík Balící plyn",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 942",
+    "nazev": "Oxid dusný Propelant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 943",
+    "nazev": "Butan, Isobutan Propelant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 944",
+    "nazev": "Propan Propelant",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 948",
+    "nazev": "Kyslík Balící plyn",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 949",
+    "nazev": "Vodík Balící plyn",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 950",
+    "nazev": "Acesulfam K Zvýrazňovač chuti a vůně, Náhradní sladidlo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 951",
+    "nazev": "Aspartam Zvýrazňovač chuti a vůně, Náhradní sladidlo",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 952",
+    "nazev": "Cyklamáty Náhradní sladidlo",
+    "skodlivost": 6
+  },
+  {
+    "kod": "E 953",
+    "nazev": "Isomalt Náhradní sladidlo, Leštící látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 954",
+    "nazev": "Sacharin Náhradní sladidlo",
+    "skodlivost": 5
+  },
+  {
+    "kod": "E 955",
+    "nazev": "Sukralosa Náhradní sladidlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 957",
+    "nazev": "Thaumatin Látka zvýrazňující chuť, Náhradní sladidlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 958",
+    "nazev": "Glycyrrhizin Látka zvýrazňující chuť",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 959",
+    "nazev": "Neohesperidin DC Náhradní sladidlo",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 962",
+    "nazev": "Sůl aspartamu-acesulfamu Náhradní sladidlo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 965",
+    "nazev": "Maltitol Náhradní sladidlo, Plnící látka, Zvlhčující látka",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 966",
+    "nazev": "Laktitol Náhradní sladidlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 967",
+    "nazev": "Xylitol Zvlhčující látka, Náhradní sladidlo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 968",
+    "nazev": "Erythritol Sladidlo",
+    "skodlivost": 0
+  },
+  {
+    "kod": "E 999",
+    "nazev": "Extrakt z kvilaje Pěnotvorná látka",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 1102",
+    "nazev": "Glukosooxidasa Látka zlepšující mouku",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 1103",
+    "nazev": "Invertasa Stabilizátor",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1105",
+    "nazev": "Lysozym Konzervant",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 1200",
+    "nazev": "Polydextrozy Stabilizátor, Zvlhčující látka, Zahušťovadlo, Plnidlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1201",
+    "nazev": "Polyvinylpyrrolidon Nosič, Plnidlo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 1202",
+    "nazev": "Polyvinylpolypyrrolidon Nosič, Plnidlo",
+    "skodlivost": 4
+  },
+  {
+    "kod": "E 1404",
+    "nazev": "Oxidovaný škrob Stabilizátor, Zahušťovadlo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 1410",
+    "nazev": "Fosforečnanový monoester škrobu, Fosfát škrobu Stabilizátor, Zahušťovadlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1412",
+    "nazev": "Fosfátový diester škrobu Stabilizátor, Zahušťovadlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1413",
+    "nazev": "Fosfát zesíťovaného škrobu, Monofosforečnan škrobového difosforečnanu Stabilizátor, Zahušťovadlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1414",
+    "nazev": "Acetát zasíťovaného fosfátu škrobu Stabilizátor, Zahušťovadlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1420",
+    "nazev": "Acetát škrobu, Acetylovaný škrob Stabilizátor, Zahušťovadlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1422",
+    "nazev": "Acetylovaný škrob adipát Stabilizátor, Zahušťovadlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1440",
+    "nazev": "Hydroxypropylether škrobu, Hydroxypropylškrob Stabilizátor, Zahušťovadlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1442",
+    "nazev": "Hydroxypropylether zesíťovaného fosfátu škrobu, Hydroxypropylškrobový difosforečnan Stabilizátor, Zahušťovadlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1450",
+    "nazev": "Sodná sůl oktenylsukcinátu škrobu, Škrobový oktenyljantaran sodný Stabilizátor, Zahušťovadlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1451",
+    "nazev": "Acetylovaný oxidovaný škrob Stabilizátor, Zahušťovadlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1452",
+    "nazev": "Škrobový oktenylsukcinát hlinitý (SAOS) Zahušťovadlo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 1505",
+    "nazev": "Triethylcitrát Stabilizátor",
+    "skodlivost": 1
+  },
+  {
+    "kod": "E 1517",
+    "nazev": "Glycerol-diacetát Zvlhčující látka, Rozpouštědlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1518",
+    "nazev": "Glycerol-triacetát Zvlhčující látka, Ochucovadlo",
+    "skodlivost": 2
+  },
+  {
+    "kod": "E 1519",
+    "nazev": "Benzylalkohol Rozpouštědlo",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 1520",
+    "nazev": "Propylenglykol Rozpouštědlo, Zvlhčující látka",
+    "skodlivost": 3
+  },
+  {
+    "kod": "E 236",
+    "nazev": "Kyselina mravenčí Konzervant",
+    "skodlivost": 3
+  }
+]

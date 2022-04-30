@@ -1,0 +1,29 @@
+{
+    "short_name": "Shopping diary",
+    "name": "Shopping diary",
+    "description": "Diary for shopping and storing goods at home",
+    "icons": [
+        {
+            "src": "/icon/favicon-16x16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/icon/favicon-32x32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/icon/mstile-150x150.png",
+            "type": "image/png",
+            "sizes": "270x270"
+        }
+
+    ],
+    "start_url": "/",
+    "background_color": "#29b6f6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#29b6f6",
+    "shortcuts": []
+}
